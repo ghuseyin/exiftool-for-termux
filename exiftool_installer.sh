@@ -27,7 +27,7 @@ if [ "$UID" -eq 0 ]; then
 	echo 'Please run without root.'
 	exit 1
 fi
-declare -a req_stat
+declare -a req_stat # for storing not installed requirements
 blackhole="null.$RANDOM.null" # for apt not have a stable cli warning redirection
 cd ~
 pwd
