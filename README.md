@@ -1,7 +1,7 @@
 ## exiftool-for-termux
 Exiftool installer for Termux
 
-### İnstallation
+### Installation
 
 1. Open termux and download the script
 > wget https://raw.githubusercontent.com/ghuseyin/exiftool-for-termux/master/exiftool_installer.sh
@@ -12,6 +12,6 @@ Exiftool installer for Termux
 3. Start installation
 > ./exiftool_installer.sh
 
-### Test (After İnstallation)
+### Test (After Installation)
 
 > exiftool
