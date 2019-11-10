@@ -14,4 +14,4 @@ Exiftool installer for Termux
 
 ### Test (After Installation)
 
-> exiftool
+> exiftool -ver
