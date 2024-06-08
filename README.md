@@ -1,6 +1,10 @@
-## exiftool-for-termux
+## exiftool-for-termux (Archived)
 Exiftool installer for Termux
+There is no need for this project anymore.
+Use this instead: 
+> apt install exiftool
 
+```
 ### Installation
 
 1. Open termux and download the script
@@ -15,3 +19,4 @@ Exiftool installer for Termux
 ### Test (After Installation)
 
 > exiftool -ver
+```
