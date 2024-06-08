@@ -1,6 +1,8 @@
 ## exiftool-for-termux (Archived)
 Exiftool installer for Termux
+
 There is no need for this project anymore.
+
 Use this instead: 
 > apt install exiftool
 
